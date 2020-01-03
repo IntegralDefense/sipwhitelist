@@ -1,3 +1,5 @@
+# THIS REPOSITORY HAS MOVED TO https://github.com/ace-ecosystem/sipwhitelist
+
 # sipwhitelist
 Python library that interacts with SIP to build an indicator whitelist system.
 
